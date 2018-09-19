@@ -1,4 +1,4 @@
-(defproject org.clojars.cloggo/restify "0.1.1"
+(defproject org.clojars.cloggo/restify "0.1.2"
   :description "clojurescript API to access javascript restify library package"
   :url "https://github.com/cloggo/cljs-restify"
   :license {:name "MIT" }
