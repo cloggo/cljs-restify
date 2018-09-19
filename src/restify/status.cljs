@@ -1,4 +1,4 @@
-(ns restify.const)
+(ns restify.status)
 
 (def http-status
   {:ACCEPTED                         202

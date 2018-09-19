@@ -3,7 +3,7 @@
             #_[restify-errors :as errors]
             [restify.core :as restify*]
             [interop.core :as interop]
-            [restify.const :as const]
+            [restify.status :as const]
             [restify.transit-parser :as transit-parser]
             ;; [app.lib.fast-json-parser :as json-parser]
             [oops.core :as oops]))

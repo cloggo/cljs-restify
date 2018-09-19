@@ -3,7 +3,7 @@
    #_[restify-errors :as errors]
    #_[cljs.core]
    [interop.core :as interop]
-   [restify.const :as const]
+   [restify.status :as const]
    [oops.core :as oops]))
 
 
